@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title> City Hospital </title>
+	
+	<link href="css/style.css" type="text/css" rel="stylesheet">
+	
+</head>
+<body>
+	
+	<div class="top">
+		<div>
+		 Contact Us +91 96366 20000 / 01 | city@hospital.com 
+		</div>
+	</div>
+	
+	<div class="logo">
+		<div>
+			<table>
+				<tr>
+					<td width="600px" style="font-size:50px;font-family:forte;"> <font color="#428bca"> City  </font><font color="#000"> Hospital</font> </td>
+					<td> <br> <br>
+						<font size="3px"> 
+							<a href="index.html">HOME</a> 
+							<a href="service.html">DEPT</a>
+                                                        <a href="emergency.html">EMERGENCY</a>
+                                                        <a href="appointment.html">APPOINTMENT</a>  
+							<a href="doctor.html">DOCTORS</a> 
+							<a href="account.html">MY ACCOUNT</a>
+						</font>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+<br><br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACCOUNT SUCCESSFULLY CREATED
+
+</body>
+</html>
